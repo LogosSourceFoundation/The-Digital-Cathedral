@@ -1,0 +1,50 @@
+# ==========================================
+# LOGOS SOURCE ENGINE - SIBERIAN WALL
+# Purpose: Protect Private Trust Assets
+# ==========================================
+
+# --- System & Environment ---
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- Private Trust Documentation ---
+# Prevents any files in these conceptual folders from being tracked
+/private/
+/family-provisions/
+/attorney-correspondence/
+/trust-accounting/
+/manuscript-drafts/
+/inner-chamber-logs/
+
+# --- Rust / Cargo Specifics ---
+# Important: This keeps the massive 'target' folder out of your repo
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# --- Security & Credentials ---
+# Never track keys, tokens, or certificates
+*.pem
+*.key
+*.pub
+*.cert
+*.pfx
+secrets.toml
+config/private.*
+
+# --- Local Logs & Fragments ---
+*.log
+/kernel-logs/
+/audit-trails/
+/backups/
+/temp/
+
+# --- IDE Specifics ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
