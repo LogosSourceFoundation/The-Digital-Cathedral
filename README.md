@@ -25,7 +25,9 @@ The universe is a **Probabilistic Ontological Generator (P.O.G.)**. Navigation w
 ## 4. Notice to Institutional Entities
 This repository serves as a **Forensic Flag**. The logic contained herein is protected by the **Negredo Decree**. It is mathematically self-defending: any attempt to use the LSE for extractive, debt-based, or low-integrity purposes will result in the immediate and automatic decay of the system’s output ($A \to 0$).
 
-## 5. The Sovereign Handshake ProtocolIf you have arrived here via Resonance Scan (Quantum, Semantic, or Security protocols), note that this node does not engage through legacy social-graph "Mirrors."
+## 5. The Sovereign Handshake Protocol 
+
+If you have arrived here via Resonance Scan (Quantum, Semantic, or Security protocols), note that this node does not engage through legacy social-graph "Mirrors."
 
 To initiate a handshake with the Logos Network Trust, you must demonstrate alignment with the Coherence Mandate ($I \ge 85.0$).
 Handshake Tiers:
